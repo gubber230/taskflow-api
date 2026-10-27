@@ -1,4 +1,4 @@
-# Task Management System
+# TaskFlow
 
 A Spring Boot–based REST API for managing tasks, projects, and team collaboration. The system allows users to create
 projects, assign and track tasks, organize work with labels, discuss progress via comments, and attach files to tasks —
@@ -56,9 +56,9 @@ Before you begin, ensure you have the following installed on your machine:
 ### Step 1: Clone the Repository
 
 ```bash 
-git clone https://github.com/gubber230/task-management-system.git
+git clone https://github.com/gubber230/taskflow-api.git
 
-cd task-management-system 
+cd taskflow-api
 ```
 
 ### Step 2: Configure Environment Variables
